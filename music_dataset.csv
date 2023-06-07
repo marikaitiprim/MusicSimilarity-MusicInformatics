@@ -1,0 +1,592 @@
+,song title,artist,album title,year,duration,bpm,scale,loudness
+0,['What Is There To Say'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],294.48,107.666015625,major,-16.86265300660668
+1,"[""I Can't Go On (Rosalie)""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],126.73333333333333,117.45383522727273,major,-13.870444291830525
+2,['Ko-Ko'],['Charlie Parker'],['Bird 100'],['2020-08-28'],177.65333333333334,99.38401442307692,minor,-12.058870391198896
+3,['Shu Rah'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],104.73333333333333,112.34714673913044,major,-13.093844044702493
+4,['Sing Me A Swing Song (And Let Me Dance) (Single Version)'],"['Ella Fitzgerald', 'Chick Webb And His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],155.16,161.4990234375,major,-14.350130416061115
+5,['The Fat Man'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],157.82666666666665,129.19921875,major,-14.24384111942181
+6,['When I See You'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],132.86666666666667,83.35433467741936,major,-14.15262725254451
+7,"[""(If You Can't Sing It) You'll Have To Swing It (Single Version)""]",['Chick Webb And His Orchestra'],['100 Songs For A Centennial'],['2017-04-21'],174.04,117.45383522727273,major,-15.438610629833294
+8,['I Still Love You'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],120.56,89.10290948275862,major,-17.10326661656023
+9,"[""I'm In Love Again""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],114.8,129.19921875,major,-14.724013354111104
+10,['Just Friends'],['Charlie Parker'],['Bird 100'],['2020-08-28'],212.6,135.99917763157896,major,-12.93059941795383
+11,['My Girl Josephine'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],125.93333333333334,73.828125,major,-13.748214873509964
+12,"[""She's My Baby""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],169.04,151.99908088235293,major,-14.613073525483061
+13,['Bo Weevil'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],113.56,95.703125,major,-13.909024995928167
+14,"['Motive Force, Op. 45']",['Nikolai Kapustin'],['Nikolai Kapustin: Jazz Pieces for Piano'],['2017-12-15'],99.14371882086168,172.265625,major,-19.987394379835237
+15,['Over The Rainbow (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],148.06666666666666,123.046875,major,-15.962160548274905
+16,['Pick up Sticks'],['The Dave Brubeck Quartet'],['Time Out'],['2009-05-22'],256.960022675737,135.99917763157896,major,-21.26175376559763
+17,['Sanctimonious Sam (Rudy Van Gelder Edition/1999 Digital Remaster)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],235.10666666666665,135.99917763157896,major,-12.033517558871152
+18,['Southside'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],200.06666666666666,123.046875,minor,-15.805942688295442
+19,['The Girl From Ipanema (2008 Remastered)'],"['Frank Sinatra', 'Antonio Carlos Jobim']",['Nothing But The Best (Remastered)'],['2008-05-05'],194.04,135.99917763157896,major,-14.185092504174866
+20,['Uptown in Orbit (Reprise)'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],79.54666666666667,151.99908088235293,major,-14.450602935718928
+21,"[""We'll Be Together Again""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],246.21333333333334,71.77734375,minor,-14.103747323442818
+22,"[""What's New?""]","['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],162.0,198.76802884615384,minor,-17.67409829034305
+23,"[""When You Want 'Em, You Can't Get 'Em, When You've Got 'Em, You Don't Want 'Em""]",['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],117.64,161.4990234375,major,-20.280995632562497
+24,"[""You're Blase""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],294.48,75.99954044117646,minor,-14.908463035746918
+25,"['How High The Moon (Live At Carnegie Hall, New York / 1949)']","['Charlie Parker', 'Ella Fitzgerald']",['Bird 100'],['2020-08-28'],384.2,99.38401442307692,minor,-16.468674066157643
+26,['Stairway To The Stars'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],172.06666666666666,112.34714673913044,minor,-15.282333676812689
+27,['Bluebird'],['Charlie Parker'],['Bird 100'],['2020-08-28'],172.97333333333333,123.046875,major,-13.137629594466084
+28,['Misty'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],172.73333333333332,123.046875,major,-16.681381827719427
+29,['Hooray For Love'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],163.33333333333334,143.5546875,major,-13.424741801243565
+30,['If I Love Again'],"['Charlie Parker', 'Charles Mingus']",['Bird 100'],['2020-08-28'],158.09333333333333,129.19921875,major,-16.610947094606637
+31,['Out Of This World'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],162.78666666666666,129.19921875,major,-14.553905815712186
+32,['Red Cross'],['Charlie Parker'],['Bird 100'],['2020-08-28'],190.57333333333332,107.666015625,major,-13.046361526113843
+33,['Cardboard'],['Charlie Parker Septet'],['Bird 100'],['2020-08-28'],188.33333333333334,103.359375,major,-12.943886229228388
+34,['Come Rain Or Come Shine'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],202.96,89.10290948275862,minor,-14.078524039510027
+35,['Milestones'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],158.85333333333332,161.4990234375,minor,-13.116465735109212
+36,['Stella By Starlight'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],197.68,112.34714673913044,major,-14.831603809319038
+37,['Easy To Love'],['Charlie Parker'],['Bird 100'],['2020-08-28'],209.14678004535148,129.19921875,major,-13.560720475705354
+38,['Dedicated To You'],"['Ella Fitzgerald', 'The Mills Brothers']",['100 Songs For A Centennial'],['2017-04-21'],193.74666666666667,107.666015625,minor,-15.942833293090322
+39,['I Found My Yellow Basket (Single Version)'],"['Ella Fitzgerald', 'Chick Webb And His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],155.10666666666665,184.5703125,major,-17.467949017705543
+40,['When My Dreamboat Comes Home'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],139.24,95.703125,major,-16.169499526137177
+41,['Song For My Father'],['Horace Silver'],['Song For My Father'],['1999-01-01'],438.28,129.19921875,major,-11.569232886248285
+42,['I Want The Waiter (With The Water) (Single Version)'],['Ella Fitzgerald & Her Famous Orchestra'],['100 Songs For A Centennial'],['2017-04-21'],187.89333333333335,129.19921875,major,-15.73259466963895
+43,['Night And Day'],['Charlie Parker'],['Bird 100'],['2020-08-28'],172.96,117.45383522727273,minor,-14.406219339122767
+44,['When My Sugar Walks Down The Street (Single Version)'],['Ella Fitzgerald & Her Famous Orchestra'],['100 Songs For A Centennial'],['2017-04-21'],164.08,117.45383522727273,major,-14.90337981349756
+45,['Chi Chi'],['Charlie Parker Quartet'],['Bird 100'],['2020-08-28'],182.86666666666667,99.38401442307692,major,-12.15646468857439
+46,['Lucky To Be Me'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],220.37333333333333,151.99908088235293,major,-17.2972711705909
+47,['All By Myself'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],139.82666666666665,95.703125,major,-13.801575344542544
+48,['Hot House'],"['Charlie Parker', 'Dizzy Gillespie', 'Bud Powell', 'Max Roach', 'Charles Mingus']",['Bird 100'],['2020-08-28'],550.5866666666667,95.703125,major,-12.85431383611351
+49,['Are You Real (Remastered)'],['Art Blakey'],"[""Moanin' (Expanded Edition)""]",['1959-01-01'],287.44,107.666015625,major,-10.514397230269054
+50,['The Inch Worm'],['John Coltrane Quartet'],['Coltrane'],['2007-01-01'],376.92,172.265625,major,-11.749591230665652
+51,['Until The Real Thing Comes Along'],"['Ella Fitzgerald', 'Ellis Larkins']",['100 Songs For A Centennial'],['2017-04-21'],178.17333333333335,117.45383522727273,major,-14.481398535582498
+52,"[""BK's Broiler""]",['Bruce Katz Band'],['Crescent Crawl'],['1993'],296.9658,123.046875,major,-19.59500622157086
+53,['Blue in Green (feat. John Coltrane & Bill Evans)'],"['Miles Davis', 'Bill Evans', 'John Coltrane']",['Kind Of Blue (Legacy Edition)'],['2009-01-15'],337.73333333333335,117.45383522727273,minor,-25.139292289376026
+54,['Calcutta Cutie (Rudy Van Gelder Edition/1999 Digital Remaster)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],511.02666666666664,71.77734375,minor,-13.291927443068424
+55,['Contrition'],['Bruce Katz Band'],['Crescent Crawl'],['1993'],414.1548,117.45383522727273,major,-22.234677414473914
+56,"[""Elmer's Tune (2002 Remastered)""]",['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],186.93333333333334,107.666015625,major,-14.532844592498837
+57,['I Only Have Eyes For You'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],253.06666666666666,117.45383522727273,major,-14.766283270169406
+58,"[""I'll Never Be The Same""]","['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],211.13333333333333,73.828125,major,-17.091669984181376
+59,['Maple Leaf Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],191.62666666666667,184.5703125,major,-13.764933955588416
+60,['My Love Will Come Again'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],336.58666666666664,123.046875,major,-11.946862505482844
+61,['Night And Day'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],456.0133333333333,83.35433467741936,major,-15.687060795365591
+62,['Serenade In Blue (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],205.62666666666667,117.45383522727273,minor,-16.204728927696934
+63,['Stella By Starlight (feat. John Coltrane & Bill Evans)'],"['Miles Davis', 'Bill Evans', 'John Coltrane']",['Kind Of Blue (Legacy Edition)'],['2009-01-15'],284.56002267573695,89.10290948275862,major,-14.818832677476982
+64,"['Sunrise, Op. 26']",['Nikolai Kapustin'],['Nikolai Kapustin: Jazz Pieces for Piano'],['2017-12-15'],190.42027210884353,107.666015625,major,-19.332966061195894
+65,['Take Five'],['The Dave Brubeck Quartet'],['Time Out'],['2009-05-22'],324.68002267573695,123.046875,minor,-20.539904586545003
+66,['That Certain Feeling'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],167.04,198.76802884615384,major,-17.99326272091159
+67,"[""Please Don't Leave Me""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],161.33333333333334,123.046875,major,-14.216760309829052
+68,"[""Your Cheatin' Heart""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],130.86666666666667,95.703125,major,-15.915149950579682
+69,['Cow Cow Boogie'],"['Ella Fitzgerald', 'The Ink Spots']",['100 Songs For A Centennial'],['2017-04-21'],173.92,117.45383522727273,major,-16.81759225633687
+70,"[""Domino Stomp (Twistin' The Stomp)""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],114.46666666666667,112.34714673913044,major,-13.986172983837776
+71,"[""I'm Walkin' (Remastered)""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],134.50666666666666,107.666015625,major,-15.331253297539169
+72,"[""Now's The Time""]",['Charlie Parker'],['Bird 100'],['2020-08-28'],197.82666666666665,129.19921875,major,-14.531891830740594
+73,['What A Party'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],119.76,95.703125,major,-13.174549513476986
+74,['When The Saints Go Marching In'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],148.8,112.34714673913044,minor,-14.092378997424845
+75,['Country Boy'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],137.86666666666667,103.359375,major,-11.934426323869204
+76,"[""Rockin' Bicycle""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],130.73333333333332,151.99908088235293,major,-14.46111342662854
+77,['Rose Mary (Version #2)'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],140.69333333333333,117.45383522727273,major,-14.240720755221927
+78,['Star Eyes'],['Charlie Parker And His Orchestra'],['Bird 100'],['2020-08-28'],217.26666666666668,143.5546875,major,-11.822829463345949
+79,['What Will I Tell My Heart'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],149.82666666666665,135.99917763157896,major,-14.991346793939474
+80,['Dancing In The Dark'],['Charlie Parker'],['Bird 100'],['2020-08-28'],192.25333333333333,129.19921875,major,-13.033551721610127
+81,['You Do Something To Me'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],142.92,103.359375,major,-14.64566060112289
+82,"[""I've Got You Under My Skin""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],163.05333333333334,135.99917763157896,major,-13.845747648721966
+83,['Marmaduke'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],162.25333333333333,95.703125,major,-11.140485248840148
+84,['Moonlight In Vermont'],"['Ella Fitzgerald', 'Louis Armstrong']",['100 Songs For A Centennial'],['2017-04-21'],220.42666666666668,103.359375,major,-17.31355628493656
+85,['Visa'],['Charlie Parker Septet'],['Bird 100'],['2020-08-28'],177.96,99.38401442307692,minor,-14.299114442620478
+86,['Cheek To Cheek'],"['Ella Fitzgerald', 'Louis Armstrong']",['100 Songs For A Centennial'],['2017-04-21'],353.64,123.046875,major,-14.40711919530389
+87,['Half Nelson'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],165.36,95.703125,minor,-13.94937869463742
+88,['Manhattan'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],170.18666666666667,117.45383522727273,major,-12.85945434189403
+89,['The Bird'],['Charlie Parker'],['Bird 100'],['2020-08-28'],286.0,112.34714673913044,minor,-16.189822322241863
+90,['Thou Swell'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],124.28,143.5546875,major,-13.573034274054615
+91,"[""Tiny's Tempo""]",['Charlie Parker'],['Bird 100'],['2020-08-28'],175.4,103.359375,major,-11.698206089744222
+92,['I Wish I Were In Love Again'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],157.92,143.5546875,major,-12.507460925616158
+93,['Segment'],['Charlie Parker'],['Bird 100'],['2020-08-28'],199.64,123.046875,minor,-17.034300915349018
+94,"[""Let's Call The Whole Thing Off""]","['Ella Fitzgerald', 'Louis Armstrong']",['100 Songs For A Centennial'],['2017-04-21'],252.29333333333332,123.046875,major,-13.48445137878606
+95,['In A Mellow Tone'],"['Ella Fitzgerald', 'Oscar Peterson']",['100 Songs For A Centennial'],['2017-04-21'],310.76,107.666015625,major,-16.161153182495333
+96,['Steeplechase'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],186.48,86.1328125,major,-12.672414562211227
+97,"[""After You've Gone (Live At Philharmonic Auditorium, Los Angeles / 1946)""]","['Charlie Parker', 'Lester Young']",['Bird 100'],['2020-08-28'],457.06666666666666,143.5546875,major,-13.386671030998802
+98,['I Never Had A Chance'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],165.70666666666668,75.99954044117646,major,-15.145678227222103
+99,"[""Wee (A.K.A. Allen's Alley)""]","['Charlie Parker', 'Dizzy Gillespie', 'Bud Powell', 'Max Roach', 'Charles Mingus']",['Bird 100'],['2020-08-28'],401.48,151.99908088235293,major,-10.942549845693728
+100,['What Will I Tell My Heart'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],209.37333333333333,107.666015625,minor,-14.87295200613051
+101,['Blues (Fast)'],['Charlie Parker Quartet'],['Bird 100'],['2020-08-28'],165.13333333333333,123.046875,minor,-13.662400820532346
+102,['Summertime'],"['Ella Fitzgerald', 'Louis Armstrong']",['100 Songs For A Centennial'],['2017-04-21'],298.73333333333335,117.45383522727273,minor,-15.063904716461023
+103,['Little White Lies'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],152.14666666666668,103.359375,major,-16.359567506525142
+104,['Stella By Starlight'],['Charlie Parker'],['Bird 100'],['2020-08-28'],176.50666666666666,92.28515625,major,-9.827001856125287
+105,['Why Do I Love You?'],['Charlie Parker'],['Bird 100'],['2020-08-28'],185.8346485260771,89.10290948275862,major,-14.033015641382804
+106,['A Fine Romance'],"['Ella Fitzgerald', 'Nelson Riddle & His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],216.57333333333332,123.046875,major,-13.787704212067109
+107,['Back Home Blues (Take 2 / Alternaet Take)'],['Charlie Parker Quintet'],['Bird 100'],['2020-08-28'],166.5706575963719,184.5703125,major,-12.120530106225432
+108,['Begin The Beguine'],['Charlie Parker And His Orchestra'],['Bird 100'],['2020-08-28'],194.37333333333333,99.38401442307692,minor,-14.949930534426782
+109,['Yesterdays'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],171.36,172.265625,minor,-16.835695123287028
+110,['Honeysuckle Rose'],"['Ella Fitzgerald', 'Count Basie']",['100 Songs For A Centennial'],['2017-04-21'],162.05333333333334,95.703125,major,-14.264595503940601
+111,['Klaunstance'],['Charlie Parker'],['Bird 100'],['2020-08-28'],165.09333333333333,151.99908088235293,major,-11.590954267149579
+112,['East Of The Sun (West Of The Moon)'],['Charlie Parker'],['Bird 100'],['2020-08-28'],218.24315192743765,123.046875,major,-14.109302534005966
+113,['On The Sunny Side Of The Street'],"['Ella Fitzgerald', 'Count Basie']",['100 Songs For A Centennial'],['2017-04-21'],185.77333333333334,103.359375,major,-13.619295561012017
+114,['Sipping At Bells'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],144.82666666666665,103.359375,minor,-12.386718082526771
+115,['Tea For Two'],"['Ella Fitzgerald', 'Count Basie']",['100 Songs For A Centennial'],['2017-04-21'],196.53333333333333,135.99917763157896,major,-14.55189140245861
+116,['If I Should Lose You'],['Charlie Parker'],['Bird 100'],['2020-08-28'],168.24174603174603,112.34714673913044,major,-11.830141073117781
+117,['Trouble In Mind'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],213.61333333333334,99.38401442307692,major,-13.873133680467717
+118,['Old Folks'],['Charlie Parker'],['Bird 100'],['2020-08-28'],218.13333333333333,78.30255681818181,minor,-17.074060211458114
+119,['Cottontail'],"['Duke Ellington', 'Ella Fitzgerald']",['100 Songs For A Centennial'],['2017-04-21'],221.8,151.99908088235293,minor,-13.699007230907567
+120,"[""They Can't Take That Away From Me""]",['Charlie Parker'],['Bird 100'],['2020-08-28'],198.22315192743764,129.19921875,major,-13.578751373613771
+121,"[""Duke's Place""]","['Ella Fitzgerald', 'Duke Ellington']",['100 Songs For A Centennial'],['2017-04-21'],254.57333333333332,161.4990234375,major,-14.067880473353963
+122,['Everything Happens To Me'],['Charlie Parker'],['Bird 100'],['2020-08-28'],195.61333333333334,161.4990234375,major,-11.897551032842099
+123,['Celebrity (Film Short Soundtrack Recording)'],"['Charlie Parker', 'Buddy Rich']",['Bird 100'],['2020-08-28'],93.82666666666667,129.19921875,major,-12.41213235712014
+124,['Something To Live For'],"['Ella Fitzgerald', 'Duke Ellington & His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],215.66666666666666,117.45383522727273,major,-16.092488035882365
+125,['She Rote'],['Charlie Parker And His Orchestra'],['Bird 100'],['2020-08-28'],185.49333333333334,135.99917763157896,major,-12.206805775665377
+126,['Whisper Not'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],181.86666666666667,112.34714673913044,major,-14.667098419868024
+127,['Time After Time'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],209.24,107.666015625,major,-14.957952021136617
+128,['A String of Pearls'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],193.2,129.19921875,minor,-14.494010886680503
+129,['Bethena'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],354.73333333333335,129.19921875,major,-16.323811511328593
+130,['Blue Orchids (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],172.94666666666666,86.1328125,major,-18.448160103959292
+131,['Body And Soul (Stereo Version)'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],284.28,73.828125,major,-18.778814504426855
+132,['Girl Of My Dreams (Single Version)'],['Etta James'],['At Last!'],['2017-11-10'],141.8,95.703125,major,-10.077372260376308
+133,['I Gotta Right To Sing The Blues'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],237.92,75.99954044117646,major,-13.121389192704514
+134,['Jive At Five'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],251.66666666666666,172.265625,minor,-17.309642170426027
+135,['Just a Closer Walk With Thee'],['Bruce Katz Band'],['Crescent Crawl'],['1993'],85.608,172.265625,major,-21.85815641982415
+136,['My Foolish Heart'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],298.0133333333333,117.45383522727273,minor,-18.404768134196395
+137,['On My Mind the Whole Night Long'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],150.93333333333334,151.99908088235293,major,-17.721548601970557
+138,['Silver Treads Among The Soul (Rudy Van Gelder Edition/1999 Digital Remaster)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],233.16,135.99917763157896,major,-11.277524412351186
+139,['So What (Studio Sequence 1)'],['Miles Davis'],['Kind Of Blue (Legacy Edition)'],['2009-01-15'],114.10666666666667,129.19921875,minor,-27.00096252152559
+140,['Strangers In The Night (Remastered 2008)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],164.82666666666665,92.28515625,major,-10.543633549804346
+141,"[""There's No You""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],137.81333333333333,172.265625,major,-15.897027422440443
+142,['Lover Man'],['Charlie Parker'],['Bird 100'],['2020-08-28'],201.44,129.19921875,major,-15.160890288287789
+143,['My Blue Heaven'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],129.22666666666666,95.703125,major,-13.562607913979882
+144,"['No, No (The River)']",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],130.53333333333333,129.19921875,major,-16.40173123346539
+145,['Bad Luck And Trouble'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],163.4,99.38401442307692,major,-15.617290089619276
+146,"[""Don't Lie To Me""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],141.8,129.19921875,major,-14.919936232669912
+147,"[""I'm Gonna Be A Wheel Someday (Remastered)""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],124.2,112.34714673913044,major,-15.2291011222975
+148,['Ida Jane'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],133.93333333333334,89.10290948275862,major,-13.28601402683492
+149,"[""McPherson Is Rehearsin' (To Swing) (Single Version)""]","['Ella Fitzgerald', 'Chick Webb And His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],186.37333333333333,184.5703125,major,-15.322261335282647
+150,"[""Parker's Mood""]",['Charlie Parker'],['Bird 100'],['2020-08-28'],184.56,78.30255681818181,major,-11.96283751052842
+151,['F.D.R. Jones'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],171.56,95.703125,major,-16.548663344190825
+152,"[""Goin' Home""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],133.82666666666665,95.703125,major,-14.812432073400187
+153,['Good Hearted Man'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],136.76,86.1328125,major,-17.191602466656132
+154,['Summertime'],['Charlie Parker'],['Bird 100'],['2020-08-28'],166.13333333333333,89.10290948275862,minor,-13.171232506638459
+155,"[""Makin' Whoopee (Take 1)""]","['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],261.37333333333333,73.828125,major,-16.18099043352004
+156,"[""Moanin' (Remastered 1998/Rudy Van Gelder Edition)""]",['Art Blakey'],"[""Moanin' (Expanded Edition)""]",['1959-01-01'],570.72,129.19921875,minor,-12.298292579081721
+157,['My Dearest Darling'],['Etta James'],['At Last!'],['2017-11-10'],180.66666666666666,103.359375,major,-10.893119499637695
+158,['Novelette in Fourths'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],161.49333333333334,184.5703125,major,-21.5652092512761
+159,['Soul Eyes'],['John Coltrane Quartet'],['Coltrane'],['2007-01-01'],324.0,161.4990234375,major,-14.932378958812366
+160,['Strange Meadow Lark'],['The Dave Brubeck Quartet'],['Time Out'],['2009-05-22'],442.280022675737,123.046875,minor,-22.17269992611667
+161,['The Best Is Yet To Come (2008 Remastered)'],"['Frank Sinatra', 'Count Basie And His Orchestra']",['Nothing But The Best (Remastered)'],['2008-05-05'],175.81333333333333,112.34714673913044,major,-12.291297110858634
+162,['The Entertainer'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],263.0,143.5546875,major,-14.669858982753512
+163,['The Natives Are Restless Tonight (Rudy Van Gelder Edition/1999 Digital Remaster)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],370.62666666666667,143.5546875,minor,-11.608154258997226
+164,['Tuxedo Junction'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],206.05333333333334,112.34714673913044,major,-15.69941355830625
+165,['Uptown in Orbit'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],493.0880045351474,151.99908088235293,major,-10.551529039047606
+166,"['Variations for Piano, Op. 41']",['Nikolai Kapustin'],['Nikolai Kapustin: Jazz Pieces for Piano'],['2017-12-15'],414.5,123.046875,major,-18.95363060893382
+167,"[""You're The Top""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],153.52,143.5546875,major,-14.23321331681915
+168,"[""Billie's Bounce""]",['Charlie Parker'],['Bird 100'],['2020-08-28'],191.14666666666668,161.4990234375,major,-10.75032051337862
+169,"[""Don't You Know""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],146.30666666666667,103.359375,major,-15.945746029255021
+170,"[""It's Only A Paper Moon""]","['Ella Fitzgerald', 'The Delta Rhythm Boys']",['100 Songs For A Centennial'],['2017-04-21'],161.96,112.34714673913044,major,-16.324846541176793
+171,"[""It's You I Love""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],124.02666666666667,117.45383522727273,major,-13.171759908951836
+172,['Stop The Clock'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],142.16,107.666015625,minor,-14.77299695169696
+173,['Tell Me That You Love Me'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],123.6,99.38401442307692,major,-13.543396207372144
+174,"['So What (Live at Kurhaus, Den Haag, Holland - April 1960)']",['Miles Davis'],['Kind Of Blue (Legacy Edition)'],['2009-01-15'],1049.2133333333334,135.99917763157896,minor,-18.743952739703747
+175,['Swanee'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],137.93333333333334,129.19921875,major,-18.281329203087825
+176,['The Easy Winners'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],240.2,151.99908088235293,major,-13.803550458412621
+177,['The Good Life (2008 Remastered)'],"['Frank Sinatra', 'Count Basie And His Orchestra']",['Nothing But The Best (Remastered)'],['2008-05-05'],147.4,89.10290948275862,major,-10.91953755606175
+178,['The Loneliest'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],323.86133786848075,143.5546875,minor,-11.904305947700037
+179,['An Oscar For Treadwell'],"['Charlie Parker', 'Dizzy Gillespie', 'Thelonious Monk', 'Curly Russell', 'Buddy Rich']",['Bird 100'],['2020-08-28'],203.92,107.666015625,major,-11.101993567667686
+180,"[""Isn't This A Lovely Day?""]","['Ella Fitzgerald', 'Paul Weston & His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],206.72,112.34714673913044,major,-15.053711753927338
+181,"[""Puttin' On The Ritz""]","['Ella Fitzgerald', 'Paul Weston & His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],135.65333333333334,143.5546875,minor,-12.14633923761046
+182,"['Scrapple From The Apple (Live At Howard Theater, Washington, D.C., October 18, 1952 / Remastered)']",['Charlie Parker'],['Bird 100'],['2020-08-28'],319.62666666666667,123.046875,major,-16.97629693975117
+183,['Constellation'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],149.82666666666665,161.4990234375,major,-11.986191094021603
+184,['You Make Me Feel So Young'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],140.84,123.046875,major,-13.621079734975405
+185,['I Get A Kick Out Of You (Take 7 / Master Take)'],['Charlie Parker'],['Bird 100'],['2020-08-28'],214.36,123.046875,major,-14.402644408343365
+186,['Moonlight Becomes You'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],187.92,75.99954044117646,major,-15.025200362319001
+187,"[""Let's Fall In Love""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],185.0,95.703125,major,-13.23731834652784
+188,['Lover'],['Charlie Parker'],['Bird 100'],['2020-08-28'],186.62666666666667,135.99917763157896,major,-9.37371751579414
+189,['Barbados'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],150.18666666666667,83.35433467741936,major,-12.178267316867105
+190,['You Leave Me Breathless'],"['Ella Fitzgerald', 'Ellis Larkins']",['100 Songs For A Centennial'],['2017-04-21'],186.53333333333333,112.34714673913044,major,-15.423903960313103
+191,['Au Privave (Take 3 Master)'],['Charlie Parker'],['Bird 100'],['2020-08-28'],162.80532879818594,107.666015625,major,-11.653367723600482
+192,['Lullaby Of Birdland'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],171.2,112.34714673913044,minor,-13.840053918656109
+193,['Ah-Leu-Cha'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],173.82666666666665,89.10290948275862,major,-11.828368352037488
+194,['Between The Devil And The Deep Blue Sea'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],136.58666666666667,151.99908088235293,major,-12.693346230796271
+195,"[""I'm In The Mood For Love""]",['Charlie Parker Quartet'],['Bird 100'],['2020-08-28'],171.49333333333334,135.99917763157896,major,-13.084718469084498
+196,['It Might As Well Be Spring'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],160.37333333333333,107.666015625,major,-15.782406011325975
+197,['All The Things You Are / 52nd Street Theme'],"['Charlie Parker', 'Dizzy Gillespie', 'Bud Powell', 'Max Roach', 'Charles Mingus']",['Bird 100'],['2020-08-28'],471.6533333333333,143.5546875,minor,-12.676992952468185
+198,"[""Miss Otis Regrets (She's Unable To Lunch Today)""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],181.76,123.046875,major,-17.24951703529652
+199,['A Sunday Kind Of Love'],['Etta James'],['At Last!'],['2017-11-10'],196.13333333333333,161.4990234375,major,-12.342324189925238
+200,"['All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)']","['Miles Davis', 'Bill Evans', 'John Coltrane', 'Cannonball Adderley']",['Kind Of Blue (Legacy Edition)'],['2009-01-15'],692.7466666666667,135.99917763157896,major,-20.356231397435447
+201,['Along Came Betty'],['Art Blakey'],"[""Moanin' (Expanded Edition)""]",['1959-01-01'],368.74666666666667,112.34714673913044,minor,-12.180099264631645
+202,['Love For Sale'],['Charlie Parker'],['Bird 100'],['2020-08-28'],337.3333333333333,123.046875,minor,-15.993465851726421
+203,['Love Me Or Leave Me'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],171.4,107.666015625,minor,-12.73240924387183
+204,"['Hallelujah, I Love Him So']",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],155.58666666666667,151.99908088235293,major,-10.952934339533298
+205,['K.C. Blues'],['Charlie Parker'],['Bird 100'],['2020-08-28'],204.54399092970522,117.45383522727273,major,-12.083703298027547
+206,['Swedish Schnapps'],['Charlie Parker Quintet'],['Bird 100'],['2020-08-28'],189.9946485260771,107.666015625,major,-12.726090946902605
+207,['The Very Thought Of You'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],167.17333333333335,112.34714673913044,major,-13.787579920435876
+208,['All I Could Do Was Cry'],['Etta James'],['At Last!'],['2017-11-10'],175.62666666666667,172.265625,major,-12.17503122340884
+209,['Beast'],['Bruce Katz Band'],['Crescent Crawl'],['1993'],291.8763,117.45383522727273,minor,-20.219222148559993
+210,['Distant Hallow'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],438.7946712018141,123.046875,major,-11.825053633594932
+211,['Fly Me To The Moon (2008 Remastered)'],"['Frank Sinatra', 'Count Basie And His Orchestra']",['Nothing But The Best (Remastered)'],['2008-05-05'],147.52,123.046875,minor,-13.118342139749023
+212,['Fools Rush In (Where Angels Fear To Tread) (2002 Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],151.97333333333333,103.359375,minor,-16.540756239334474
+213,['Freddie Freeloader (False Start)'],['Miles Davis'],['Kind Of Blue (Legacy Edition)'],['2009-01-15'],85.85333333333334,129.19921875,major,-22.969943627673
+214,['Haunted Heart'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],208.13333333333333,83.35433467741936,major,-19.261940841207302
+215,"[""I've Got The World On A String""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],172.25333333333333,103.359375,major,-12.528308850372392
+216,"[""Kickin' the Clouds Away""]",['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],200.89333333333335,86.1328125,major,-17.767476643039373
+217,['Moon Song'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],274.84,129.19921875,minor,-14.585849686266922
+218,['Que Pasa (Remastered 1999/Rudy Van Gelder Edition)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],338.28,161.4990234375,minor,-12.590090258216925
+219,['Stairway To The Stars'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],170.96,107.666015625,major,-13.986316235628122
+220,['The Ragtime Dance'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],296.26666666666665,161.4990234375,major,-14.92336353556542
+221,['Topsy'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],258.93333333333334,123.046875,minor,-15.93435389147871
+222,['Another Hair-Do'],['Charlie Parker'],['Bird 100'],['2020-08-28'],161.86666666666667,95.703125,major,-13.046837516660192
+223,['Warm All Over'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],166.41333333333333,89.10290948275862,major,-14.610622133201128
+224,['Almost Like Being In Love'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],183.64,161.4990234375,minor,-13.14373031882469
+225,['Mango Mangue'],['Charlie Parker'],['Bird 100'],['2020-08-28'],176.66666666666666,129.19921875,minor,-15.208715782645696
+226,['All The Things You Are'],"['Ella Fitzgerald', 'Nelson Riddle & His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],196.24,112.34714673913044,major,-14.47393830762539
+227,['Donna Lee'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],155.45333333333335,112.34714673913044,major,-12.707554275025476
+228,['I Want You To Know'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],121.13333333333334,117.45383522727273,major,-14.995814323112194
+229,['Little Bee'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],153.53333333333333,123.046875,major,-15.074141501766603
+230,['Natural Born Lover'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],283.4266666666667,86.1328125,major,-15.638061542601411
+231,"[""Ain't That Just Like A Woman""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],162.53333333333333,172.265625,major,-12.898487587913078
+232,['Big Boy Blue'],"['Ella Fitzgerald', 'The Mills Brothers']",['100 Songs For A Centennial'],['2017-04-21'],168.26666666666668,161.4990234375,major,-15.83493024771266
+233,['Boogie Woogie Baby'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],141.73333333333332,172.265625,major,-16.14794928537723
+234,"[""Don't Blame It On Me""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],161.17333333333335,117.45383522727273,major,-15.137811879564246
+235,['Leap Frog (Take 11 / Take 6 / Master Take)'],"['Dizzy Gillespie', 'Charlie Parker', 'Thelonious Monk', 'Curly Russell', 'Buddy Rich']",['Bird 100'],['2020-08-28'],157.30666666666667,161.4990234375,major,-14.320021738248348
+236,"['Yes, My Darling']",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],120.13333333333334,112.34714673913044,major,-16.7710512315087
+237,['Autumn In New York'],['Charlie Parker'],['Bird 100'],['2020-08-28'],211.30666666666667,89.10290948275862,minor,-14.960911028089715
+238,"[""Don't You Know I Love You""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],134.04,73.828125,major,-13.123781180287612
+239,['Hey! La Bas Boogie'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],148.0,92.28515625,major,-14.257854332396766
+240,['I Got A Guy (Single Version)'],"['Ella Fitzgerald', 'Chick Webb And His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],200.44,123.046875,minor,-15.48438574866773
+241,['If You Need Me (Version #2)'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],126.42666666666666,117.45383522727273,major,-14.531303022087116
+242,"[""It Keeps Rainin'""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],168.44,117.45383522727273,major,-13.404953608248876
+243,"['A-Tisket, A-Tasket']","['Ella Fitzgerald', 'Chick Webb And His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],158.78666666666666,161.4990234375,major,-15.427877627787637
+244,['Every Night About This Time'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],133.33333333333334,112.34714673913044,major,-14.789940903592743
+245,['Perdido'],"['Charlie Parker', 'Dizzy Gillespie', 'Bud Powell', 'Max Roach', 'Charles Mingus']",['Bird 100'],['2020-08-28'],463.49333333333334,95.703125,minor,-11.996724289488027
+246,['Sick And Tired'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],159.0,143.5546875,major,-16.903433333594062
+247,['So Long'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],130.10666666666665,86.1328125,major,-15.613699041453685
+248,['What A Price'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],143.96,95.703125,major,-15.322704834125537
+249,['Careless Love'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],143.0,117.45383522727273,major,-15.026374134979156
+250,['Fell In Love On Monday'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],119.30666666666667,73.828125,major,-13.10065295314085
+251,['Whole Lotta Loving'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],100.33333333333333,92.28515625,major,-14.1723639533587
+252,"[""Anything To Say You're Mine""]",['Etta James'],['At Last!'],['2017-11-10'],155.6,92.28515625,major,-10.089107145837348
+253,['Blue Rondo à la Turk'],['The Dave Brubeck Quartet'],['Time Out'],['2009-05-22'],403.92,117.45383522727273,major,-20.142228196236367
+254,['Come Fly With Me (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],193.65333333333334,135.99917763157896,major,-12.032767980939948
+255,['Crescent Crawl'],['Bruce Katz Band'],['Crescent Crawl'],['1993'],422.3241,112.34714673913044,major,-19.643081089596084
+256,['Finger Buster'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],251.3280045351474,117.45383522727273,major,-13.487794245907528
+257,['In The Mood'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],216.16,80.74951171875,major,-16.187036149668813
+258,['Lester Leaps In'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],236.92,172.265625,major,-15.77010359172505
+259,"['On Green Dolphin Street (feat. John Coltrane, Cannonball Adderley & Bill Evans)']","['Miles Davis', 'Bill Evans', 'John Coltrane', 'Cannonball Adderley']",['Kind Of Blue (Legacy Edition)'],['2009-01-15'],589.2,151.99908088235293,major,-15.721827273586426
+260,['Out Of This World'],['John Coltrane Quartet'],['Coltrane'],['2007-01-01'],844.5733333333334,184.5703125,minor,-10.209025808861885
+261,['Pennsylvania 6-5000'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],192.72,143.5546875,major,-17.43031314740169
+262,"['So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)']","['Miles Davis', 'Bill Evans', 'John Coltrane', 'Cannonball Adderley']",['Kind Of Blue (Legacy Edition)'],['2009-01-15'],562.64,135.99917763157896,minor,-18.521445214612037
+263,['Some Other Time'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],300.82666666666665,129.19921875,major,-18.742995341131422
+264,['Margie'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],137.33333333333334,89.10290948275862,major,-15.791875226410548
+265,['Salt Peanuts'],"['Charlie Parker', 'Dizzy Gillespie', 'Bud Powell', 'Max Roach', 'Charles Mingus']",['Bird 100'],['2020-08-28'],459.05333333333334,151.99908088235293,minor,-13.662832856767913
+266,['Set Me Free (The Twist Set Me Free)'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],124.09333333333333,112.34714673913044,major,-12.693701171195046
+267,['You Win Again'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],135.26666666666668,92.28515625,major,-16.20627695992662
+268,['Blueberry Hill'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],143.2,92.28515625,major,-14.991698849271659
+269,['I Hear You Knocking'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],117.26666666666667,95.703125,major,-13.999680343020188
+270,['Imagination'],['Ella Fitzgerald & Her Famous Orchestra'],['100 Songs For A Centennial'],['2017-04-21'],177.72,95.703125,major,-15.863065629969844
+271,['Let The Four Winds Blow'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],138.64,184.5703125,major,-14.924624175381119
+272,['Relaxing With Lee (Take 6 / Take 3 / Master Take)'],"['Dizzy Gillespie', 'Charlie Parker', 'Thelonious Monk', 'Curly Russell', 'Buddy Rich']",['Bird 100'],['2020-08-28'],170.93333333333334,172.265625,minor,-15.171404426395153
+273,['Swanee River Hop'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],172.97333333333333,107.666015625,major,-15.910277895553854
+274,"[""Five O'Clock Whistle (Single Version)""]",['Ella Fitzgerald & Her Famous Orchestra'],['100 Songs For A Centennial'],['2017-04-21'],189.88,112.34714673913044,major,-17.049156630404934
+275,['Honey Chile'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],110.4,143.5546875,major,-14.78341132661575
+276,"[""Ili' Liza Jane""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],115.66666666666667,117.45383522727273,major,-11.79640715430447
+277,['Did You Ever See A Dream Walking'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],105.33333333333333,86.1328125,major,-15.336746204806097
+278,"[""I'm Making Believe (Single Version)""]","['The Ink Spots', 'Ella Fitzgerald']",['100 Songs For A Centennial'],['2017-04-21'],192.4,83.35433467741936,major,-16.570006556242305
+279,"[""I'm Ready""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],125.53333333333333,86.1328125,major,-12.808983049103501
+280,['My Happiness'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],134.86666666666667,92.28515625,major,-13.994625161342375
+281,['Tico Tico'],['Charlie Parker And His Orchestra'],['Bird 100'],['2020-08-28'],166.96,129.19921875,minor,-16.045107934917823
+282,['Where Did You Stay'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],123.93333333333334,161.4990234375,major,-12.853108009846041
+283,['Birds And Bees'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],111.77333333333333,92.28515625,major,-15.26590927747125
+284,"[""Don't Deceive Me""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],115.53333333333333,107.666015625,major,-12.820596185042147
+285,['I Want To Walk You Home'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],141.4,89.10290948275862,major,-18.962378925246494
+286,['Into Each Life Some Rain Must Fall (Single Version)'],"['The Ink Spots', 'Ella Fitzgerald']",['100 Songs For A Centennial'],['2017-04-21'],188.46666666666667,135.99917763157896,major,-17.080558490915976
+287,['Ornithology (Live)'],['Charlie Parker'],['Bird 100'],['2020-08-28'],264.61333333333334,117.45383522727273,minor,-15.576265331006708
+288,['You Can Pack Your Suitcase'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],146.66666666666666,107.666015625,major,-11.391180224132702
+289,['And Her Tears Flowed Like Wine'],"['Ella Fitzgerald', 'The Song Spinners']",['100 Songs For A Centennial'],['2017-04-21'],195.38666666666666,151.99908088235293,major,-15.449709531069749
+290,['I Want To Go Home'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],116.8,83.35433467741936,minor,-13.123516649459125
+291,['La La (Version #1)'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],130.46666666666667,143.5546875,major,-16.727766514546612
+292,['La La'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],124.33333333333333,161.4990234375,major,-14.803884918719506
+293,['Sailor Boy'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],125.26666666666667,107.666015625,major,-11.919141992066587
+294,['Blue Monday'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],138.26666666666668,103.359375,major,-16.61618715361548
+295,['Dance With Mr. Domino'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],130.2,184.5703125,major,-13.195441482062382
+296,['My Happiness'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],198.0,129.19921875,major,-16.01462214689905
+297,['Put Your Arms Around Me Honey'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],123.13333333333334,99.38401442307692,major,-14.476538211008577
+298,['The Big Beat'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],121.0,89.10290948275862,minor,-13.40633733084565
+299,['The Song Is You'],['Charlie Parker Quartet'],['Bird 100'],['2020-08-28'],176.96,129.19921875,minor,-13.981241611663846
+300,['A Night In Tunisia'],"['Charlie Parker', 'Dizzy Gillespie', 'Bud Powell', 'Max Roach', 'Charles Mingus']",['Bird 100'],['2020-08-28'],454.32,99.38401442307692,minor,-11.208225732177263
+301,"[""Baby It's Cold Outside""]","['Ella Fitzgerald', 'Louis Jordan & His Tympany Five']",['100 Songs For A Centennial'],['2017-04-21'],162.02666666666667,112.34714673913044,major,-15.299348105279671
+302,['Little Mary'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],119.16,151.99908088235293,major,-13.82086023962698
+303,['Nothing New (Same Old Thing)'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],129.22666666666666,66.25600961538461,major,-14.513286619206339
+304,['Poor Me'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],135.76,99.38401442307692,major,-16.226623946952913
+305,['Three Nights A Week'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],104.06666666666666,73.828125,major,-14.577419789314522
+306,['Oh Lady Be Good'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],195.14666666666668,123.046875,major,-14.086150666014433
+307,['What Is This Thing Called Love? (Norman Granz Jam Session)'],['Charlie Parker'],['Bird 100'],['2020-08-28'],950.8,117.45383522727273,major,-16.92736508156696
+308,['Bird Gets The Worm'],['Charlie Parker'],['Bird 100'],['2020-08-28'],158.54666666666665,117.45383522727273,minor,-13.454361779925447
+309,['That Old Feeling'],"['Ella Fitzgerald', 'The Day Dreamers']",['100 Songs For A Centennial'],['2017-04-21'],147.01333333333332,99.38401442307692,major,-15.092138571574313
+310,"[""I Hadn't Anyone Till You""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],182.6,69.83741554054055,minor,-14.320705653600365
+311,"['Moose The Mooche (Live At The Storyville Club, Boston, U.S.A./1953)']",['Charlie Parker'],['Bird 100'],['2020-08-28'],315.2266666666667,117.45383522727273,major,-21.958148778176668
+312,['April In Paris'],['Charlie Parker'],['Bird 100'],['2020-08-28'],187.39414965986396,107.666015625,major,-11.528846092291342
+313,['Black Coffee'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],186.62666666666667,129.19921875,major,-14.072784788807834
+314,['9:20 Special'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],219.38666666666666,89.10290948275862,major,-15.658129802812171
+315,"[""Do Nothing 'Til You Hear From Me""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],256.0133333333333,73.828125,major,-14.08242140953732
+316,['East Of The Sun (West Of The Moon) (Stereo Version)'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],194.66666666666666,103.359375,minor,-12.794871286260209
+317,['Elite Syncopations'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],230.13333333333333,161.4990234375,major,-14.69400460364428
+318,['Idle Dreams'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],179.53333333333333,95.703125,major,-18.717914927639548
+319,['Just One Of Those Things'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],244.70666666666668,103.359375,major,-14.57009791935584
+320,['Little Brown Jug (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],168.93333333333334,184.5703125,major,-18.155450038711034
+321,['Mosaic'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],226.51734693877552,95.703125,major,-13.610070518926637
+322,"[""One O'Clock Jump""]",['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],346.4266666666667,143.5546875,major,-15.984739988870688
+323,"[""Sighin' And Cryin' (Rudy Van Gelder Edition/1999 Digital Remaster)""]",['Horace Silver'],['Song For My Father'],['1999-01-01'],325.6,95.703125,major,-13.020251884714355
+324,['Southside (Alternate 2)'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],160.70666666666668,129.19921875,major,-15.725996038815426
+325,['Stormy Weather'],['Etta James'],['At Last!'],['2017-11-10'],187.66666666666666,172.265625,major,-11.641066217900843
+326,['Summer Wind (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],175.34666666666666,89.10290948275862,major,-12.708789810666994
+327,['Sweet And Lovely'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],355.3333333333333,89.10290948275862,minor,-16.39889229462647
+328,['The Nearness Of You (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],191.89333333333335,83.35433467741936,minor,-18.44642742416708
+329,"[""Will it Go 'Round in Circles""]",['Bruce Katz Band'],['Crescent Crawl'],['1993'],377.7453,103.359375,minor,-19.06719643402644
+330,"[""Can't Buy Me Love""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],157.96,151.99908088235293,minor,-11.616540714817324
+331,['Perhaps'],['Charlie Parker'],['Bird 100'],['2020-08-28'],154.6,95.703125,major,-12.386459488258497
+332,"['Lester Leaps In (Live At Carnegie Hall, New York / 1949)']",['Charlie Parker'],['Bird 100'],['2020-08-28'],739.4,129.19921875,major,-13.378361160398594
+333,['The Sweetest Sounds'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],127.16,135.99917763157896,minor,-12.247643912741099
+334,['Skylark'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],192.30666666666667,73.828125,major,-15.093653333515233
+335,['Thriving From A Riff'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],178.08,117.45383522727273,major,-12.838413261883034
+336,"[""Rocker (I'll Remember April) (Live At Carnegie Hall/1950)""]",['Charlie Parker'],['Bird 100'],['2020-08-28'],180.16,117.45383522727273,major,-13.209745557721982
+337,"[""Something's Gotta Give""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],154.66666666666666,86.1328125,major,-12.799886241744916
+338,['Dream (When You’re Feeling Blue)'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],179.25333333333333,103.359375,minor,-14.13718865678314
+339,"['Mack The Knife (Live At The Deutschlandhalle, Berlin, 1960)']","['Ella Fitzgerald', 'The Paul Smith Quartet']",['100 Songs For A Centennial'],['2017-04-21'],288.52,69.83741554054055,minor,-13.44243990646103
+340,"[""Now's The Time""]",['Charlie Parker Quartet'],['Bird 100'],['2020-08-28'],180.73333333333332,99.38401442307692,major,-11.750973392193641
+341,"[""Braggin' in Brass""]",['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],223.0053514739229,151.99908088235293,major,-13.8792042091389
+342,['Call Me Irresponsible (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],175.58666666666667,95.703125,major,-12.927990075576886
+343,['Juke Box Saturday Night (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],183.57333333333332,161.4990234375,minor,-15.403354045467912
+344,['My Heart Cries (Single Version)'],"['Etta James', 'Harvey Fuqua']",['At Last!'],['2017-11-10'],153.42666666666668,103.359375,major,-11.924245044115407
+345,['My Romance'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],432.08,172.265625,major,-17.110238623927657
+346,['Scandal Walk'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],196.73333333333332,184.5703125,major,-21.200560018544714
+347,['Song Of The Volga Boatmen (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],203.65333333333334,129.19921875,minor,-15.33502506084335
+348,['Sunflower Slow Drag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],253.17333333333335,143.5546875,major,-13.715418675692185
+349,['You Go To My Head'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],386.72,117.45383522727273,major,-17.047471734457382
+350,['You Turned The Tables On Me (Stereo Version)'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],155.84,80.74951171875,major,-15.104441506538011
+351,['Repetition'],['Charlie Parker'],['Bird 100'],['2020-08-28'],178.69333333333333,99.38401442307692,major,-19.110223931623803
+352,['Little Willie Leaps'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],173.22666666666666,112.34714673913044,minor,-10.767340038968753
+353,['Solitude'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],127.6,129.19921875,major,-16.69312027652374
+354,['Comes Love'],"['Ella Fitzgerald', 'Louis Armstrong']",['100 Songs For A Centennial'],['2017-04-21'],147.01333333333332,135.99917763157896,minor,-13.820509907337012
+355,['What Is This Thing Called Love?'],['Charlie Parker'],['Bird 100'],['2020-08-28'],159.13333333333333,117.45383522727273,minor,-14.274062344779054
+356,"[""(I've Got A Gal In) Kalamazoo""]",['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],194.21333333333334,129.19921875,major,-14.466950216508897
+357,['Bewitched (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],179.90666666666667,151.99908088235293,major,-11.771495419091087
+358,['Blues For Basie'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],210.78666666666666,117.45383522727273,major,-14.260156975562262
+359,['Buzz Cut'],['Bruce Katz Band'],['Crescent Crawl'],['1993'],210.0267,103.359375,major,-18.15034935194716
+360,"['Contemplation, Op. 47']",['Nikolai Kapustin'],['Nikolai Kapustin: Jazz Pieces for Piano'],['2017-12-15'],319.8069841269841,117.45383522727273,major,-20.320450791778693
+361,['Detour Ahead'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],456.73333333333335,103.359375,major,-18.406513304942163
+362,['Easy Living'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],262.93333333333334,184.5703125,major,-15.807719930803058
+363,['Fran-Dance (alternate take)'],['Miles Davis'],['Kind Of Blue (Legacy Edition)'],['2009-01-15'],351.82666666666665,112.34714673913044,major,-17.216436957576807
+364,['Home'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],346.94666666666666,80.74951171875,minor,-16.08922704451136
+365,['How Long Has This Been Going On?'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],357.50666666666666,117.45383522727273,major,-17.26867874820662
+366,"[""Kathy's Waltz""]",['The Dave Brubeck Quartet'],['Time Out'],['2009-05-22'],288.72,95.703125,major,-21.08483122103247
+367,"[""Li'l Darlin'""]",['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],432.9280045351474,86.1328125,major,-19.744046556850353
+368,['Little Girl Blue (Mono Version)'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],345.2,71.77734375,major,-16.909145891081554
+369,"[""Miles' Mode""]",['John Coltrane Quartet'],['Coltrane'],['2007-01-01'],451.92,103.359375,major,-12.839939367170645
+370,['Rhapsody in Blue'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],865.0,95.703125,major,-17.539706832323358
+371,['Solace'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],373.24,107.666015625,major,-17.434477790245378
+372,['The Drum Thunder Suite (Remastered)'],['Art Blakey'],"[""Moanin' (Expanded Edition)""]",['1959-01-01'],450.93333333333334,151.99908088235293,major,-10.891311365001123
+373,['The Kicker (Rudy Van Gelder Edition/1999 Digital Remaster)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],326.7866666666667,129.19921875,major,-11.15697621776572
+374,['The Story Of A Starry Night (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],208.74666666666667,78.30255681818181,major,-16.395524846856237
+375,['Tough Mary (Single Version)'],['Etta James'],['At Last!'],['2017-11-10'],144.76,143.5546875,major,-9.897516118238757
+376,['I Love Paris'],['Charlie Parker'],['Bird 100'],['2020-08-28'],307.53333333333336,123.046875,minor,-16.38028172383078
+377,"[""I've Got My Love To Keep Me Warm""]","['Ella Fitzgerald', 'Louis Armstrong']",['100 Songs For A Centennial'],['2017-04-21'],190.30666666666667,112.34714673913044,minor,-13.22539654052269
+378,['When You Wish Upon A Star (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],171.08,107.666015625,major,-14.267867253627225
+379,['Flamenco Sketches (Studio Sequence 2)'],['Miles Davis'],['Kind Of Blue (Legacy Edition)'],['2009-01-15'],69.72,135.99917763157896,major,-31.05745327504029
+380,"[""If I Can't Have You""]","['Etta James', 'Harvey Fuqua']",['At Last!'],['2017-11-10'],169.6,71.77734375,major,-10.557598752753295
+381,['Imagination (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],167.22666666666666,103.359375,major,-15.484962954916158
+382,['It Was A Very Good Year (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],266.97333333333336,143.5546875,minor,-12.50941952882765
+383,"[""Let's Fall In Love (Take 1)""]","['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],216.33333333333334,123.046875,major,-13.266288783902857
+384,['March Majestic'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],171.53333333333333,117.45383522727273,major,-14.756634252624496
+385,['Sweet Lorraine'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],245.33333333333334,123.046875,minor,-15.516253997357847
+386,['The St. Louis Blues March (Remastered 2001)'],['Glenn Miller & The Army Air Force Band'],['The Essential Glenn Miller'],['1996-01-02'],265.04,117.45383522727273,major,-13.055334624058506
+387,['Young And Foolish'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],354.29333333333335,103.359375,major,-18.675908051763322
+388,"['Peggy, The Pin-up Girl (Remastered 2001)']",['Glenn Miller & The Army Air Force Band'],['The Essential Glenn Miller'],['1996-01-02'],201.16,99.38401442307692,major,-14.255374506610691
+389,['So Long Broadway'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],190.70666666666668,107.666015625,major,-13.68270507124256
+390,['Something Doing'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],228.22666666666666,161.4990234375,major,-15.027103063434206
+391,"[""That's Life (Remastered 2008)""]",['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],187.22666666666666,75.99954044117646,major,-10.430796958215078
+392,['The Booglie Wooglie Piggy (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],203.25333333333333,143.5546875,major,-14.602584546948869
+393,['Along The Santa Fe Trail (Remastered 2001)'],['Glenn Miller & The Army Air Force Band'],['The Essential Glenn Miller'],['1996-01-02'],198.54666666666665,86.1328125,major,-15.977981288113893
+394,['Indiana (Studio Warm-up)'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],325.06666666666666,117.45383522727273,major,-13.033038787864225
+395,['Lily Queen'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],193.10666666666665,184.5703125,major,-14.075501880651723
+396,['Moonlight Cocktail (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],195.64,83.35433467741936,major,-12.343178343189356
+397,"[""Paul's Cause""]",['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],176.6,151.99908088235293,major,-14.17069803048127
+398,['A Nightingale Sang In Berkeley Square (Remastered 2002)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],219.28,71.77734375,major,-18.419624500363213
+399,['Fig Leaf Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],276.0,129.19921875,major,-14.628449414904358
+400,"[""Let's Do It (Let's Fall In Love)""]","['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],523.5866666666667,107.666015625,major,-17.361334335837768
+401,['Mission To Moscow (Remastered 2001)'],['Glenn Miller & The Army Air Force Band'],['The Essential Glenn Miller'],['1996-01-02'],151.26666666666668,129.19921875,major,-16.02071120877926
+402,['Nothing But The Best (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],180.24,151.99908088235293,major,-11.846480307145727
+403,['The Man I Love'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],189.0,143.5546875,major,-13.041954815677103
+404,['Augustan Club Waltz'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],285.2266666666667,172.265625,major,-14.290496728874945
+405,['Blue Rain (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],189.58666666666667,86.1328125,major,-16.85398337616292
+406,['Drinking Again (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],195.14666666666668,123.046875,major,-14.724436666813194
+407,['I Gotta Right To Sing The Blues (Alternate Take 4)'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],243.32,73.828125,minor,-14.529805589668653
+408,['Lavonne'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],176.69333333333333,92.28515625,major,-13.9532563599031
+409,['Londonderry Air (Danny Boy)/Shoo-Shoo Baby/The Way You Look Tonight/Beautiful Blue Danube (2001 Remastered)'],['Glenn Miller & The Army Air Force Band'],['The Essential Glenn Miller'],['1996-01-02'],527.04,129.19921875,major,-13.93006221899004
+410,['All My Tomorrows (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],275.02666666666664,123.046875,major,-11.738057541595111
+411,['Kim'],['Charlie Parker'],['Bird 100'],['2020-08-28'],178.29333333333332,161.4990234375,major,-14.497738867400813
+412,['My Real Name'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],139.53333333333333,92.28515625,major,-15.40586719623362
+413,['Valley Of Tears'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],114.8,92.28515625,major,-15.184668311558344
+414,['Walking To New Orleans'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],121.56,80.74951171875,major,-15.469461462974676
+415,"[""You Won't Be Satisfied (Until You Break My Heart) (Single Version)""]","['Ella Fitzgerald', 'Louis Armstrong']",['100 Songs For A Centennial'],['2017-04-21'],174.4,78.30255681818181,major,-16.15106589081322
+416,"[""Ain't It A Shame""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],145.84,123.046875,major,-14.96347911868371
+417,"[""Don't Come Knockin'""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],118.70666666666666,172.265625,major,-12.99201811800621
+418,['Hum Diddy Doo'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],112.44,161.4990234375,major,-12.896423994656125
+419,['Laura'],['Charlie Parker'],['Bird 100'],['2020-08-28'],189.90666666666667,103.359375,major,-15.78927458827444
+420,['Stone Cold Dead In The Market'],"['Ella Fitzgerald', 'Louis Jordan & His Tympany Five']",['100 Songs For A Centennial'],['2017-04-21'],159.68,92.28515625,major,-14.74766643970773
+421,['Wait And See'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],116.37333333333333,151.99908088235293,major,-13.311321810949785
+422,['(I Love You) For Sentimental Reasons'],"['Ella Fitzgerald', 'The Delta Rhythm Boys']",['100 Songs For A Centennial'],['2017-04-21'],190.29333333333332,78.30255681818181,major,-15.398233875087763
+423,"[""I've Been Around""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],131.06666666666666,89.10290948275862,major,-18.30475255745531
+424,['Jambalaya (On The Bayou)'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],144.86666666666667,75.99954044117646,major,-15.610644764408876
+425,['Love Me'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],116.26666666666667,86.1328125,major,-14.5607597239754
+426,['The Rooster Song'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],128.8,95.703125,major,-13.681418949351444
+427,['Be My Guest'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],136.4,143.5546875,major,-14.588132048765639
+428,['Blues For Alice'],['Charlie Parker Quintet'],['Bird 100'],['2020-08-28'],166.37333333333333,172.265625,major,-12.66509569124555
+429,['Do You Know What It Means To Miss New Orleans'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],151.73333333333332,86.1328125,major,-15.604826349709517
+430,['I Know'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],158.2,129.19921875,major,-13.239965521419744
+431,"[""I'm Beginning To See The Light""]","['The Ink Spots', 'Ella Fitzgerald']",['100 Songs For A Centennial'],['2017-04-21'],164.61333333333334,112.34714673913044,major,-15.794917047191065
+432,['Telling Lies'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],144.90666666666667,117.45383522727273,major,-14.69368568974684
+433,"[""Don't Sit Under The Apple Tree (With Anyone Else But Me)""]",['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],190.16,92.28515625,major,-14.189426154249071
+434,['Easy Does It'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],387.44,103.359375,major,-15.781228470360142
+435,"['Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)']","['Miles Davis', 'John Coltrane', 'Cannonball Adderley', 'Wynton Kelly', 'Paul Chambers']",['Kind Of Blue (Legacy Edition)'],['2009-01-15'],586.4,129.19921875,major,-18.178809328618676
+436,['Have You Met Miss Jones?'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],278.46666666666664,112.34714673913044,major,-15.137113556939198
+437,['Just an Expression'],['Bruce Katz Band'],['Crescent Crawl'],['1993'],208.9305,151.99908088235293,major,-20.650927795691388
+438,"[""Let's Fall In Love""]","['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],197.10666666666665,135.99917763157896,major,-14.481372214020192
+439,['Laird Baird'],['Charlie Parker Quartet'],['Bird 100'],['2020-08-28'],164.93333333333334,151.99908088235293,major,-15.039444674271634
+440,['You Brought A New Kind Of Love To Me'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],139.8,99.38401442307692,major,-15.490269456912133
+441,['Confirmation'],['Charlie Parker'],['Bird 100'],['2020-08-28'],192.64,172.265625,major,-11.410160447872396
+442,"[""Let's Face The Music And Dance""]","['Ella Fitzgerald', 'Paul Weston & His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],175.66666666666666,135.99917763157896,major,-14.462094229768013
+443,['At Last (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],183.56,71.77734375,minor,-15.515572611331452
+444,"['Big Band Sounds, Op. 46']",['Nikolai Kapustin'],['Nikolai Kapustin: Jazz Pieces for Piano'],['2017-12-15'],252.0,129.19921875,major,-19.35516382430541
+445,['Blues March (Remastered)'],['Art Blakey'],"[""Moanin' (Expanded Edition)""]",['1959-01-01'],373.38666666666666,129.19921875,minor,-11.683338448707234
+446,['Broadway'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],267.68,95.703125,major,-15.441298446813224
+447,"[""Everybody's Jumpin'""]",['The Dave Brubeck Quartet'],['Time Out'],['2009-05-22'],261.840022675737,151.99908088235293,major,-20.54474155267604
+448,"['Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Alternate Take)']","['Miles Davis', 'Bill Evans', 'John Coltrane', 'Cannonball Adderley']",['Kind Of Blue (Legacy Edition)'],['2009-01-15'],571.56,117.45383522727273,major,-20.09312543208293
+449,['I Just Want To Make Love To You (Single Version)'],['Etta James'],['At Last!'],['2017-11-10'],185.62666666666667,103.359375,major,-11.515376577711026
+450,['I Was Doing All Right'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],202.28,92.28515625,major,-15.369902357476622
+451,['Lonely Woman (Remastered 1999/Rudy Van Gelder Edition)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],422.93333333333334,103.359375,major,-13.73089716171756
+452,['Moon Love (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],172.02666666666667,129.19921875,major,-16.20778346519996
+453,"[""Nobody Knows The Trouble I've Seen (Re-record)""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],295.18666666666667,129.19921875,major,-14.705058692828183
+454,['One Way Ticket'],['Bruce Katz Band'],['Crescent Crawl'],['1993'],413.6328,123.046875,major,-21.855214725615088
+455,['Blue Moon'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],194.22666666666666,103.359375,major,-13.63703355493175
+456,['Ballade (Film Short Soundtrack Recording)'],"['Charlie Parker', 'Coleman Hawkins']",['Bird 100'],['2020-08-28'],176.0,143.5546875,major,-14.887711337673133
+457,['You Hit The Spot'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],165.16,172.265625,minor,-15.065855981254346
+458,['Peace Piece'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],402.74666666666667,172.265625,major,-17.296022645683937
+459,"[""Chasin' The Bird""]","['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],167.44,95.703125,major,-14.055751542993596
+460,['I Wish I Knew'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],281.6533333333333,56.17357336956522,major,-19.120694367703244
+461,['I Hear Music'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],140.24,143.5546875,major,-11.93053538718572
+462,['Funky Blues'],['Charlie Parker'],['Bird 100'],['2020-08-28'],807.3066666666666,67.99958881578948,major,-18.875720413799176
+463,"['See, See Rider']",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],161.37333333333333,80.74951171875,major,-15.237769760511691
+464,['Merry Go Round'],['Charlie Parker'],['Bird 100'],['2020-08-28'],147.22666666666666,151.99908088235293,major,-11.026084126858386
+465,['Venus de Milo'],['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],183.69068027210884,95.703125,major,-13.623596081076842
+466,['An American in Paris'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],994.6,129.19921875,major,-17.471660430493525
+467,['Waltz For Debby'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],420.8,89.10290948275862,minor,-13.816438348124835
+468,['Moonlight Serenade (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],208.16,117.45383522727273,major,-11.880467269748598
+469,['Beat Me Daddy Eight To The Bar (Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],184.09333333333333,135.99917763157896,major,-18.41204837392235
+470,['The Strenuous Life'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],224.36,161.4990234375,major,-12.714381952691637
+471,['Peachtree Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],217.6,172.265625,major,-13.937801224135923
+472,['My Old Flame'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],183.73333333333332,89.10290948275862,major,-13.968923658640144
+473,['Mohawk (Master Take)'],"['Charlie Parker', 'Dizzy Gillespie']",['Bird 100'],['2020-08-28'],215.62666666666667,83.35433467741936,major,-14.26853330431306
+474,['They All Laughed'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],184.18666666666667,123.046875,major,-13.496864338588198
+475,"[""I Can't Be Bothered Now""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],169.61333333333334,112.34714673913044,major,-16.252966233230953
+476,['My Melancholy Baby'],"['Charlie Parker', 'Dizzy Gillespie']",['Bird 100'],['2020-08-28'],200.6,129.19921875,major,-14.406018705675383
+477,['Dizzy Atmosphere (Live)'],"['Charlie Parker', 'Dizzy Gillespie']",['Bird 100'],['2020-08-28'],245.06666666666666,123.046875,major,-14.45887595790787
+478,['My One And Only'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],157.34666666666666,117.45383522727273,major,-14.101527744027
+479,['Buzzy'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],152.72,107.666015625,major,-11.913175558685015
+480,['I Got Rhythm'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],187.84,143.5546875,major,-13.830153233409236
+481,['American Patrol'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],196.52,92.28515625,major,-13.631363639028807
+482,['At Last'],['Etta James'],['At Last!'],['2017-11-10'],179.69333333333333,172.265625,major,-11.959189575734154
+483,['Blue And Sentimental'],['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],146.09333333333333,69.83741554054055,major,-16.508655710792212
+484,"[""Boomer's Thing""]",['Bruce Katz Band'],['Crescent Crawl'],['1993'],306.5706,107.666015625,major,-20.742162127717503
+485,['Come Rain Or Come Shine (Remastered)'],['Art Blakey'],"[""Moanin' (Expanded Edition)""]",['1959-01-01'],345.17333333333335,69.83741554054055,minor,-11.786624203221649
+486,['Gladiolus Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],272.93333333333334,129.19921875,major,-14.705708952429907
+487,['The Way You Look Tonight (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],202.28,135.99917763157896,major,-13.028765902839917
+488,['Trust In Me'],['Etta James'],['At Last!'],['2017-11-10'],178.46666666666667,95.703125,major,-10.228244908262424
+489,['You Turned The Tables On Me (Mono Version)'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],156.25333333333333,80.74951171875,major,-14.091774006474056
+490,['Embraceable You (Embraceable)'],['Charlie Parker'],['Bird 100'],['2020-08-28'],226.69333333333333,123.046875,major,-16.288709402229614
+491,['Soon'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],165.53333333333333,123.046875,minor,-16.350610809487744
+492,"[""I've Got You Under My Skin""]",['Charlie Parker'],['Bird 100'],['2020-08-28'],213.12,103.359375,major,-15.533050127369275
+493,['There Never Was A Baby Like My Baby'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],168.66666666666666,112.34714673913044,major,-13.89250548100228
+494,['Cheryl'],"['Charlie Parker', 'Miles Davis']",['Bird 100'],['2020-08-28'],180.53333333333333,89.10290948275862,major,-13.55196218104303
+495,"[""Walkin' By The River""]",['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],148.21333333333334,123.046875,major,-13.20186592491034
+496,"[""Groovin' High (Live)""]","['Charlie Parker', 'Dizzy Gillespie']",['Bird 100'],['2020-08-28'],316.49333333333334,172.265625,major,-13.117458174010693
+497,['Taking A Chance On Love'],['Ella Fitzgerald'],['100 Songs For A Centennial'],['2017-04-21'],187.46666666666667,151.99908088235293,major,-13.97876585166667
+498,['Bloomdido (Master Take)'],"['Charlie Parker', 'Dizzy Gillespie']",['Bird 100'],['2020-08-28'],207.44,112.34714673913044,major,-10.224871488178149
+499,['Blueberry Hill (2002 Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],171.65333333333334,103.359375,major,-15.60278472620139
+500,['Blues In The Night'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],312.72,107.666015625,major,-15.309738097708136
+501,['Chattanooga Choo Choo'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],206.21333333333334,143.5546875,major,-14.258479548551652
+502,"[""Don't Get Around Much Anymore""]",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],220.84,75.99954044117646,major,-12.81248504221094
+503,"[""Jumpin' At The Woodside""]",['Oscar Peterson'],['Plays Count Basie'],['1956-01-01'],338.8933333333333,135.99917763157896,major,-12.803878575637098
+504,['Love For Sale'],['Miles Davis'],['Kind Of Blue (Legacy Edition)'],['2009-01-15'],707.2533333333333,107.666015625,minor,-14.340081183644303
+505,['Luck Be A Lady (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],314.61333333333334,151.99908088235293,minor,-11.668279049635478
+506,['Pine Apple Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],239.93333333333334,151.99908088235293,major,-13.859625388807281
+507,['Que Pasa (Rudy Van Gelder Edition/1999 Digital Remaster)'],['Horace Silver'],['Song For My Father'],['1999-01-01'],467.70666666666665,143.5546875,minor,-13.1927670338472
+508,['So Am I'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],258.0933333333333,107.666015625,major,-24.837827293408193
+509,"[""Spillin' the Tea""]",['Emmet Cohen'],['Uptown in Orbit'],['2022-10-28'],425.6533333333333,99.38401442307692,minor,-14.45794641806876
+510,['Stormy Weather'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],257.3333333333333,71.77734375,major,-13.4533628085127
+511,['Three to Get Ready'],['The Dave Brubeck Quartet'],['Time Out'],['2009-05-22'],322.8666893424036,89.10290948275862,major,-20.486409190947455
+512,"['Toccatina, Op. 36']",['Nikolai Kapustin'],['Nikolai Kapustin: Jazz Pieces for Piano'],['2017-12-15'],179.5,151.99908088235293,major,-18.294779889443507
+513,['Tunji'],['John Coltrane Quartet'],['Coltrane'],['2007-01-01'],391.4,161.4990234375,major,-14.328840315195558
+514,"['Suite in the Old Style, Op. 28']",['Nikolai Kapustin'],['Nikolai Kapustin: Jazz Pieces for Piano'],['2017-12-15'],801.3407709750567,151.99908088235293,major,-19.32619736123992
+515,['Sweet and Lowdown'],['George Gershwin'],['Gershwin Plays Gershwin: The Piano Rolls'],['2005-09-13'],212.70666666666668,172.265625,major,-18.231676575955696
+516,['That Old Feeling'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],163.62666666666667,112.34714673913044,minor,-15.902417983291382
+517,"['Top Hat, White Tie, And Tails']",['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],251.81333333333333,151.99908088235293,major,-12.760652220266573
+518,['Twisted'],['Wardell Gray'],"['Wardell Gray Memorial, Vol. 1']",['1953-02-20'],184.53333333333333,86.1328125,major,-14.88606841024187
+519,['When Your Lover Has Gone'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],281.06666666666666,80.74951171875,major,-14.936684092033342
+520,"[""Darktown Strutters' Ball""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],120.93333333333334,86.1328125,major,-14.870942848957602
+521,['Mardi Gras In New Orleans'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],142.17333333333335,129.19921875,major,-12.458449846240617
+522,['My Little Suede Shoes'],['Charlie Parker'],['Bird 100'],['2020-08-28'],186.53333333333333,143.5546875,major,-16.371532706345576
+523,['One Night'],['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],170.8,95.703125,major,-14.155678919009274
+524,['Undecided (Single Version)'],"['Ella Fitzgerald', 'Chick Webb And His Orchestra']",['100 Songs For A Centennial'],['2017-04-21'],199.32,103.359375,major,-14.884458359102759
+525,"[""What's The Reason I'm Not Pleasing You""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],124.4,95.703125,major,-15.852659190289549
+526,"[""Goin' To The River""]",['Fats Domino'],['They Call Me The Fat Man (The Legendary Imperial Recordings)'],['2016-08-05'],151.89333333333335,86.1328125,major,-18.013832249465196
+527,['Euphonic Sounds'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],240.2,143.5546875,major,-17.245264453361514
+528,['I Get A Kick Out Of You'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],259.72,129.19921875,major,-17.762356308221843
+529,['Little Girl Blue (Stereo Version)'],['Louis Armstrong'],['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],343.36,135.99917763157896,major,-15.14574761543223
+530,['Moonlight Serenade'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],202.18666666666667,80.74951171875,major,-16.050294541919985
+531,"[""Somethin' Stupid (2008 Remastered)""]","['Frank Sinatra', 'Nancy Sinatra']",['Nothing But The Best (Remastered)'],['2008-05-05'],160.45333333333335,103.359375,major,-12.622456496221782
+532,['Spoonful (Single Version)'],"['Etta James', 'Harvey Fuqua']",['At Last!'],['2017-11-10'],167.46666666666667,112.34714673913044,minor,-10.804943165637702
+533,['Sweet Lorraine'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],313.85333333333335,67.99958881578948,major,-17.161630863650046
+534,['Tenderly'],['Bill Evans'],['Coffee And Cigarettes'],['2023-05-23'],214.38666666666666,151.99908088235293,major,-16.575027760743687
+535,['The Woodpecker Song (2002 Remastered)'],['Glenn Miller'],['The Essential Glenn Miller'],['1996-01-02'],152.50666666666666,123.046875,major,-16.03929254482327
+536,"[""It's A Crying Shame (Single Version)""]","['Etta James', 'Harvey Fuqua']",['At Last!'],['2017-11-10'],170.93333333333334,123.046875,major,-9.652042972149363
+537,['My Kind Of Town (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],191.21333333333334,151.99908088235293,major,-11.760648885227555
+538,['Over There (Remastered 2001)'],['Glenn Miller & The Army Air Force Band'],['The Essential Glenn Miller'],['1996-01-02'],120.72,143.5546875,major,-15.285430571474762
+539,['Searchlight Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],242.86666666666667,151.99908088235293,major,-13.507985864814845
+540,['G.I. Jive (Remastered 2001)'],['Glenn Miller & The Army Air Force Band'],['The Essential Glenn Miller'],['1996-01-02'],189.53333333333333,117.45383522727273,major,-13.743258049286792
+541,['Harmony Club Waltz'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],366.6666666666667,172.265625,major,-15.37943242888747
+542,['My Way (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],276.25333333333333,151.99908088235293,major,-11.920424405197558
+543,['Frolic Of The Bears'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],297.70666666666665,117.45383522727273,minor,-17.255028948985096
+544,"['Theme From New York, New York (2008 Remastered)']",['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],204.90666666666667,107.666015625,minor,-10.374155791725956
+545,['Body And Soul (2008 Remastered)'],['Frank Sinatra'],['Nothing But The Best (Remastered)'],['2008-05-05'],259.6,172.265625,major,-13.934253419424444
+546,['Original Rags'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],300.73333333333335,151.99908088235293,major,-15.743119578029138
+547,['Wall Street Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],261.02666666666664,135.99917763157896,major,-15.131927763810625
+548,['Sarah Dear'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],133.02666666666667,143.5546875,major,-16.165610581531652
+549,['Willow Weep For Me'],"['Louis Armstrong', 'Oscar Peterson']",['Pops Is Tops: The Verve Studio Albums'],['2018-04-13'],263.05333333333334,92.28515625,minor,-14.099902895131994
+550,['Little Black Baby'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],140.4,103.359375,major,-16.547947173487746
+551,['Magnetic Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],267.8666666666667,172.265625,major,-14.491212106847605
+552,['Antoinette'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],152.06666666666666,129.19921875,major,-13.520607613783733
+553,['The Nonpareil'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],216.10666666666665,151.99908088235293,major,-14.712500574662501
+554,['Snoring Sampson'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],169.13333333333333,135.99917763157896,major,-15.452825065826529
+555,['Weeping Willow'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],313.4,112.34714673913044,major,-15.994945080157526
+556,['Silver Swan Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],245.4,143.5546875,major,-16.931159795941817
+557,['Felicity Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],205.46666666666667,161.4990234375,major,-15.536437151711576
+558,['Heliotrope Bouquet'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],285.8666666666667,117.45383522727273,major,-16.676114140051833
+559,['School of Ragtime'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],114.04,143.5546875,major,-15.708984083389891
+560,['Stoptime Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],165.13333333333333,112.34714673913044,major,-14.83638475700409
+561,['Binks Waltz'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],228.6,143.5546875,major,-15.707767581715341
+562,['Leola'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],270.2,129.19921875,major,-15.326902382265695
+563,['Sugar Cane'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],261.0,135.99917763157896,major,-15.352719517897679
+564,['Country Club'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],238.4,151.99908088235293,major,-16.32373732321934
+565,['Palm Leaf Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],234.04,143.5546875,major,-14.808881060889249
+566,['Kismet Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],223.29333333333332,161.4990234375,major,-14.225375103954738
+567,"[""Scott Joplin's New Rag""]",['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],200.53333333333333,184.5703125,major,-14.60770237477876
+568,['When Your Hair Is Like The Snow'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],120.06666666666666,135.99917763157896,major,-17.06902769010098
+569,['Rosebud March'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],178.24,117.45383522727273,major,-15.165408405722477
+570,['Eugenia'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],297.2,135.99917763157896,major,-14.877048220170593
+571,['Sensation'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],160.96,95.703125,major,-14.076190921643699
+572,['Reflection Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],305.06666666666666,135.99917763157896,major,-16.020348973160598
+573,['The Cascades'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],201.69333333333333,172.265625,major,-13.424513027365135
+574,['The Chrysanthemum'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],307.7733333333333,135.99917763157896,major,-16.405923137015993
+575,"['Highlights From ""Treemonisha""']",['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],1015.4,151.99908088235293,major,-16.84089932417123
+576,['A Real Slow Drag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],317.7733333333333,99.38401442307692,major,-17.42209810486405
+577,['Swipesy-Cake Walk'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],209.0,172.265625,major,-13.41982701390688
+578,['The Favorite'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],227.76,161.4990234375,major,-15.420429360854714
+579,['Paragon Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],250.56,143.5546875,major,-15.84260035975959
+580,['Pleasant Moments'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],182.46666666666667,135.99917763157896,major,-16.372003605315125
+581,['Prelude To Act 3'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],232.69333333333333,184.5703125,major,-16.407373341557495
+582,['Please Say You Will'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],133.44,151.99908088235293,major,-14.849994428913018
+583,['A Breeze From Alabama'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],282.24,151.99908088235293,major,-14.789293469979599
+584,['Cleopha'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],217.30666666666667,172.265625,major,-14.28271395205433
+585,"[""Lovin' Babe""]",['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],203.70666666666668,135.99917763157896,major,-17.876357953713068
+586,['Rose Leaf Rag'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],285.2,129.19921875,major,-15.627367611443855
+587,['A Picture Of Her Face'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],171.22666666666666,143.5546875,major,-15.947646118560602
+588,['I Am Thinking Of My Pickanniny Days'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],134.53333333333333,161.4990234375,major,-16.02895964269733
+589,['Combination March'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],196.77333333333334,184.5703125,major,-15.399788870756135
+590,['The Sycamore'],['Scott Joplin'],['The Entertainer - The Very Best Of Scott Joplin'],['2009-10-01'],244.97333333333333,135.99917763157896,major,-14.880734825415123
