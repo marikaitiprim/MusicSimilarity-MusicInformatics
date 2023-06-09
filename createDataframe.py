@@ -30,18 +30,15 @@ for fileflac in os.listdir(datapath):                       #for every file in d
     #extract bpm
     tempo, beat_frames = librosa.beat.beat_track(y=y, sr=sr)        
     bpm.append(format(tempo))
-    # print('Estimated tempo: {:.2f} beats per minute'.format(tempo))
 
     #extract scale (major/minor)
     features, features_frames = es.MusicExtractor(lowlevelStats=['mean', 'stdev'],rhythmStats=['mean', 'stdev'],tonalStats=['mean', 'stdev'])(os.path.join(datapath, fileflac))
     scale.append(features['tonal.key_edma.scale'])
-    #print("Key/scale estimation:", features['tonal.key_edma.key'], features['tonal.key_edma.scale'])
 
     data, rate = sf.read(os.path.join(datapath, fileflac))
     meter = pyln.Meter(rate) 
     loud = meter.integrated_loudness(data)
     loudness.append(loud)
-    # print(fileflac, loud)
 
 df['bpm'] = bpm
 df['scale'] = scale
