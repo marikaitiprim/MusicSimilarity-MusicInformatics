@@ -71,28 +71,28 @@ plt.title('Elbow method')
 plt.show()
 
 #kmeans
-kmeans_pca = KMeans(n_clusters=nclusters)
-kmeans_pca.fit(pca_df)
-df['cluster'] = kmeans_pca.labels_
-
-fig = plt.figure(4)
-ax = fig.add_subplot(111, projection='3d')
-ax.scatter(x,y,z, c=kmeans_pca.labels_)
-plt.title('Kmeans')
-plt.show()
-
-# #agglomerative
-# agglo_pca = AgglomerativeClustering(n_clusters=nclusters)
-# agglo_pca.fit(pca_df)
-# df['cluster'] = agglo_pca.labels_
-
-# #display(df)
+# kmeans_pca = KMeans(n_clusters=nclusters)
+# kmeans_pca.fit(pca_df)
+# df['cluster'] = kmeans_pca.labels_
 
 # fig = plt.figure(4)
 # ax = fig.add_subplot(111, projection='3d')
-# ax.scatter(x,y,z, c=agglo_pca.labels_)
-# plt.title('agglo')
+# ax.scatter(x,y,z, c=kmeans_pca.labels_)
+# plt.title('Kmeans')
 # plt.show()
+
+#agglomerative
+agglo_pca = AgglomerativeClustering(n_clusters=nclusters)
+agglo_pca.fit(pca_df)
+df['cluster'] = agglo_pca.labels_
+
+#display(df)
+
+fig = plt.figure(4)
+ax = fig.add_subplot(111, projection='3d')
+ax.scatter(x,y,z, c=agglo_pca.labels_)
+plt.title('agglo')
+plt.show()
 
 #testing each cluster
 def featuresByCluster(df, feature, cluster):
@@ -123,7 +123,7 @@ featuresByCluster(df,'loudness',0)
 plt.show()
 
 df0 = df.loc[df['cluster'] == 0].copy()
-# display(df0)
+df0.to_csv('cluster0.csv')
 
 #cluster 1
 fig = plt.figure(6)
@@ -143,7 +143,7 @@ featuresByCluster(df,'loudness',1)
 plt.show()
 
 df1 = df.loc[df['cluster'] == 1].copy()
-# display(df1)
+df1.to_csv('cluster1.csv')
 
 #cluster 2
 fig = plt.figure(7)
@@ -163,7 +163,7 @@ featuresByCluster(df,'loudness',2)
 plt.show()
 
 df2 = df.loc[df['cluster'] == 2].copy()
-# display(df2)
+df2.to_csv('cluster2.csv')
 
 #cluster 3
 fig = plt.figure(8)
@@ -183,7 +183,7 @@ featuresByCluster(df,'loudness',3)
 plt.show()
 
 df3 = df.loc[df['cluster'] == 3].copy()
-# display(df3)
+df3.to_csv('cluster3.csv')
 
 
 print('Most popular artists in each cluster')

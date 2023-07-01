@@ -35,6 +35,7 @@ for fileflac in os.listdir(datapath):                       #for every file in d
     features, features_frames = es.MusicExtractor(lowlevelStats=['mean', 'stdev'],rhythmStats=['mean', 'stdev'],tonalStats=['mean', 'stdev'])(os.path.join(datapath, fileflac))
     scale.append(features['tonal.key_edma.scale'])
 
+    #extract loudness
     data, rate = sf.read(os.path.join(datapath, fileflac))
     meter = pyln.Meter(rate) 
     loud = meter.integrated_loudness(data)
