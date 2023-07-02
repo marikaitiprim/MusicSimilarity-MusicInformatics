@@ -123,6 +123,10 @@ featuresByCluster(df,'loudness',0)
 plt.show()
 
 df0 = df.loc[df['cluster'] == 0].copy()
+
+#delete unimportant columns
+df0 = df0.drop('Unnamed: 0',axis='columns')
+df0 = df0.drop('cluster',axis='columns')
 df0.to_csv('cluster0.csv')
 
 #cluster 1
@@ -143,6 +147,10 @@ featuresByCluster(df,'loudness',1)
 plt.show()
 
 df1 = df.loc[df['cluster'] == 1].copy()
+
+#delete unimportant columns
+df1 = df1.drop('Unnamed: 0',axis='columns')
+df1 = df1.drop('cluster',axis='columns')
 df1.to_csv('cluster1.csv')
 
 #cluster 2
@@ -163,6 +171,10 @@ featuresByCluster(df,'loudness',2)
 plt.show()
 
 df2 = df.loc[df['cluster'] == 2].copy()
+
+#delete unimportant columns
+df2 = df2.drop('Unnamed: 0',axis='columns')
+df2 = df2.drop('cluster',axis='columns')
 df2.to_csv('cluster2.csv')
 
 #cluster 3
@@ -183,6 +195,10 @@ featuresByCluster(df,'loudness',3)
 plt.show()
 
 df3 = df.loc[df['cluster'] == 3].copy()
+
+#delete unimportant columns
+df3 = df3.drop('Unnamed: 0',axis='columns')
+df3 = df3.drop('cluster',axis='columns')
 df3.to_csv('cluster3.csv')
 
 
