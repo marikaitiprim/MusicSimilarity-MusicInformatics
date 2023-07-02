@@ -70,17 +70,6 @@ plt.plot(range(1,max_clusters), distortions, marker='o', linestyle='--')
 plt.title('Elbow method')
 plt.show()
 
-#kmeans
-# kmeans_pca = KMeans(n_clusters=nclusters)
-# kmeans_pca.fit(pca_df)
-# df['cluster'] = kmeans_pca.labels_
-
-# fig = plt.figure(4)
-# ax = fig.add_subplot(111, projection='3d')
-# ax.scatter(x,y,z, c=kmeans_pca.labels_)
-# plt.title('Kmeans')
-# plt.show()
-
 #agglomerative
 agglo_pca = AgglomerativeClustering(n_clusters=nclusters)
 agglo_pca.fit(pca_df)
