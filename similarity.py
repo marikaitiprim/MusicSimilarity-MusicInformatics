@@ -27,6 +27,7 @@ def clusterSimilarity(clusternum, datapath):
 
     mydict = {}
     mylist = []
+    songlist = []
     i=0
     for fileflac in os.listdir(datapath):                       #for every file in dataset
         metadata = am.load(os.path.join(datapath, fileflac))    #read file
@@ -34,29 +35,16 @@ def clusterSimilarity(clusternum, datapath):
             audiofile = librosa.load(os.path.join(datapath, fileflac))
             y, sr = audiofile
             mfccfeature = librosa.feature.mfcc(y=y,sr=sr)
-            mydict[str(metadata['tags'].title)] = mfccfeature.T
+            songlist.append(str(metadata['tags'].title))
+            #mydict[str(metadata['tags'].title)] = mfccfeature.T
             mylist.append(mfccfeature.T)
             i+=1
-        if(i==7):
+        if(i==11):
             break
 
-    # Calculate the similarity matrix
+    # Calculate the similarity matrix in batches
     num_mfccs = len(mylist)
     similarity_matrix = np.zeros((num_mfccs, num_mfccs))
-
-    # downsample_factor = 2
-
-    # # Determine the new shape of the downsampled matrix
-    # new_shape = (similarity_matrix.shape[0] // downsample_factor, similarity_matrix.shape[1] // downsample_factor)
-
-    # # Reshape the matrix by grouping values into larger blocks
-    # downsampled_matrix = similarity_matrix[:new_shape[0]*downsample_factor, :new_shape[1]*downsample_factor]
-    # downsampled_matrix = downsampled_matrix.reshape(new_shape[0], downsample_factor, new_shape[1], downsample_factor)
-
-    # # Average values within each block
-    # downsampled_matrix = np.mean(downsampled_matrix, axis=(1, 3))
-
-    # print(downsampled_matrix)
 
     for i in range(num_mfccs):
         for j in range(num_mfccs):
@@ -73,9 +61,11 @@ def clusterSimilarity(clusternum, datapath):
     # Adding a colorbar
     plt.colorbar()
 
-    # Adding labels
-    plt.xlabel('MFCC2')
-    plt.ylabel('MFCC1')
+    # Adding titles for each block
+    titles = [songlist[0], songlist[1], songlist[2], songlist[3], songlist[4], songlist[5], songlist[6], songlist[7], songlist[8], songlist[9], songlist[10]]  # Add your own titles here
+    num_titles = len(titles)
+    #plt.xticks(np.arange(num_titles), titles)
+    plt.yticks(np.arange(num_titles), titles)
 
     # Displaying the plot
     plt.show()
