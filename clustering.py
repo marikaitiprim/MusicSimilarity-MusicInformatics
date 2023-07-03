@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 from mpl_toolkits import mplot3d
 from kneed import KneeLocator
 import numpy as np
-
 from sklearn.cluster import AgglomerativeClustering
 
 le = preprocessing.LabelEncoder()
@@ -74,8 +73,6 @@ plt.show()
 agglo_pca = AgglomerativeClustering(n_clusters=nclusters)
 agglo_pca.fit(pca_df)
 df['cluster'] = agglo_pca.labels_
-
-#display(df)
 
 fig = plt.figure(4)
 ax = fig.add_subplot(111, projection='3d')
@@ -190,7 +187,7 @@ df3 = df3.drop('Unnamed: 0',axis='columns')
 df3 = df3.drop('cluster',axis='columns')
 df3.to_csv('cluster3.csv')
 
-
+#popularity of artist in each cluster
 print('Most popular artists in each cluster')
 print('Cluster 0:')
 display(df0['artist'].value_counts().to_frame())
