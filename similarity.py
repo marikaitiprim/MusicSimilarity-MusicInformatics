@@ -15,7 +15,7 @@ def clusterSimilarity(clusternum, datapath):
 
     if clusternum == 0:                                 
         #read file
-        df = pd.read_csv('cluster0_results.csv')
+        df = pd.read_csv('cluster0.csv')
 
     if clusternum == 1:
         #read file
